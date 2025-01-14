@@ -22,7 +22,7 @@ $ streamlit run stream_app.py
 ### Demo
 
 
-### Technology used overview
+### Technology used overview:
 * For context retrieval from image used [salesforce BLIP model](https://huggingface.co/Salesforce/blip-image-captioning-base)
 * For caption generation used [TinyLlama Model](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
 * Created RAG for hastrag prediction using [LlamaIndex](https://docs.llamaindex.ai/en/stable/)
@@ -32,4 +32,4 @@ $ streamlit run stream_app.py
 
 
 ---
-for more info refer conceptual documentation:  
+for more info refer conceptual [documentation](./Handlo%20Documentation.pdf)
