@@ -21,6 +21,10 @@ $ streamlit run stream_app.py
 
 ### Demo
 
+https://github.com/user-attachments/assets/90a4a052-bcee-4f5b-a8bb-f753bd1a276d
+
+
+
 
 ### Technology used overview:
 * For context retrieval from image used [salesforce BLIP model](https://huggingface.co/Salesforce/blip-image-captioning-base)
